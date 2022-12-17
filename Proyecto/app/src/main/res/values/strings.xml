@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+    //activiti_login
+    <string name="vTxt_username">Usuario</string>
+    <string name="vTxt_password">Contraseña</string>
+    <string name="btn_login">LOGIN</string>
+
+    //activity_catalogue
+    <string name="vTxt_catalogue">CATALOGO</string>
+</resources>
