@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Proyecto</string>
+
+    //activiti_login
+    <string name="vTxt_username">Usuario</string>
+    <string name="vTxt_password">Contraseña</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_addition">SUMA</string>
+
+    //activiti_addition
+    <string name="vTxt_number1">Numero 1</string>
+    <string name="vTxt_number2">Numero 2</string>
+    <string name="vTxt_result">Resultado</string>
+    <string name="vTxt_add">SUMAR</string>
+
+    //activity_catalogue
+    <string name="vTxt_catalogue">CATALOGO</string>
+</resources>

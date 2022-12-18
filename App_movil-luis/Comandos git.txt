@@ -1,0 +1,22 @@
+echo "# App_movil" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/luiscristomt/App_movil.git
+git push -u origin main
+
+Actualización github:
+git init
+git clone https://github.com/luiscristomt/Reto.git
+git status: ver documentos
+git add --all: agregar
+git commit -m"<mensaje de lo actualizado>": actualizacion
+git push: subir a github
+git checkout -b<nombre de rama>: crear rama
+git push -u origin <nombre de rama>: subir cambios de rama
+git branch -d luis: borrar rama local
+git branch -D luis: borrar rama local forzada
+git push origin --delete luis: borrar rama en github
+git merge <nombre de rama>: unir cambios de rama
+git checkout <nombre de rama>: cambiar de rama
