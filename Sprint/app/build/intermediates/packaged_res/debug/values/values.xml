@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="btn_login">#2196F3</color>
+    <color name="eTxT_password">#FFFFFF</color>
+    <color name="eTxt_usermane">#FFFFFF</color>
+    <color name="ic_camera_background">#FFFFFF</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="vTxt_password">#FFFFFF</color>
+    <color name="vTxt_usermane">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">Proyecto</string>
+    <string name="btn_addition">SUMA</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="vTxt_add">SUMAR</string>
+    <string name="vTxt_catalogue">CATALOGO</string>
+    <string name="vTxt_number1">Numero 1</string>
+    <string name="vTxt_number2">Numero 2</string>
+    <string name="vTxt_password">Contraseña</string>
+    <string name="vTxt_result">Resultado</string>
+    <string name="vTxt_username">Usuario</string>
+    <style name="Theme.Sprint" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>
