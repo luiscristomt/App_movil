@@ -10,143 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="04299503-5703-4e64-96f3-82ff1bbf8757" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Proyecto/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/androidTest/java/com/example/proyecto/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/ic_camera-playstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/drawable/ic_camera_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-anydpi-v26/ic_camera.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-anydpi-v26/ic_camera_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-hdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-hdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-hdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-mdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-mdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-mdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xhdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xhdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xhdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xxhdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xxhdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xxhdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xxxhdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xxxhdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/debug/res/mipmap-xxxhdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/java/com/example/proyecto/activities/CatalogueActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/java/com/example/proyecto/activities/LoginActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/java/com/example/proyecto/adapters/ProductAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/java/com/example/proyecto/entities/ProductEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/drawable-v24/bala.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/drawable-v24/domo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/drawable-v24/dvr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/drawable-v24/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/drawable-v24/ptz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/layout/activity_catalogue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/layout/format_product.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/app/src/test/java/com/example/proyecto/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Proyecto/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/example/sprint/ExampleInstrumentedTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/ic_camera-playstore.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-anydpi-v26/ic_camera.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-anydpi-v26/ic_camera_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-hdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-hdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-hdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-mdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-mdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-mdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xhdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xhdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xhdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxhdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxhdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxhdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxxhdpi/ic_camera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxxhdpi/ic_camera_foreground.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/mipmap-xxxhdpi/ic_camera_round.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/debug/res/values/ic_camera_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sprint/activities/AdditionActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sprint/activities/CatalogueActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sprint/activities/LoginActivity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sprint/adapters/ProductAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/sprint/entities/ProductEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/bala.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/domo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/dvr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/login.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable-v24/ptz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_addition.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_catalogue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/format_product.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values-night/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/values/themes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/example/sprint/ExampleUnitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Proyecto/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Proyecto/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -158,6 +23,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Sprint" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
