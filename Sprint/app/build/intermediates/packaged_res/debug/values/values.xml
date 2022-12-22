@@ -14,14 +14,23 @@
     <color name="vTxt_usermane">#FFFFFF</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Proyecto</string>
+    <string name="btn_add">AGREGAR</string>
     <string name="btn_addition">SUMA</string>
     <string name="btn_login">LOGIN</string>
-    <string name="vTxt_add">SUMAR</string>
+    <string name="default_web_client_id" translatable="false">963821809085-tl6ukf1vnf2db5bdc9i4j3igkunp6bbi.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://sprint-b665d-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">963821809085</string>
+    <string name="google_api_key" translatable="false">AIzaSyC1YMUScAZDyT5_xCsRJSRhea_erhQi5bU</string>
+    <string name="google_app_id" translatable="false">1:963821809085:android:0aca27fadf746a03d2f6d4</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC1YMUScAZDyT5_xCsRJSRhea_erhQi5bU</string>
+    <string name="google_storage_bucket" translatable="false">sprint-b665d.appspot.com</string>
+    <string name="project_id" translatable="false">sprint-b665d</string>
     <string name="vTxt_catalogue">CATALOGO</string>
-    <string name="vTxt_number1">Numero 1</string>
-    <string name="vTxt_number2">Numero 2</string>
+    <string name="vTxt_descriptionProductAdd">Descripción</string>
+    <string name="vTxt_nameProductAdd">Nombre</string>
     <string name="vTxt_password">Contraseña</string>
-    <string name="vTxt_result">Resultado</string>
+    <string name="vTxt_priceproductAdd">Precio</string>
+    <string name="vTxt_titleProductAdd">PRODUCTO NUEVO</string>
     <string name="vTxt_username">Usuario</string>
     <style name="Theme.Sprint" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         

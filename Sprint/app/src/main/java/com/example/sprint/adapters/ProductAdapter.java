@@ -22,6 +22,22 @@ public class ProductAdapter extends BaseAdapter{
         this.arrayProduct = arrayProduct;
     }
 
+    public Context getContext() {
+        return context;
+    }
+
+    public void setContext(Context context) {
+        this.context = context;
+    }
+
+    public ArrayList<ProductEntity> getArrayProduct() {
+        return arrayProduct;
+    }
+
+    public void setArrayProduct(ArrayList<ProductEntity> arrayProduct) {
+        this.arrayProduct = arrayProduct;
+    }
+
     @Override
     public int getCount() {
         return arrayProduct.size();

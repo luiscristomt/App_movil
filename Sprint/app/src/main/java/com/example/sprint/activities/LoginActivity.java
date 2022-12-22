@@ -27,13 +27,5 @@ public class LoginActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
-        btn_addition = (Button) findViewById(R.id.btn_addition);
-        btn_addition.setOnClickListener((new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(getApplicationContext(), AdditionActivity.class);
-                startActivity(intent);
-            }
-        }));
     }
 }

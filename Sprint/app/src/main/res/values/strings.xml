@@ -8,10 +8,11 @@
     <string name="btn_addition">SUMA</string>
 
     //activiti_addition
-    <string name="vTxt_number1">Numero 1</string>
-    <string name="vTxt_number2">Numero 2</string>
-    <string name="vTxt_result">Resultado</string>
-    <string name="vTxt_add">SUMAR</string>
+    <string name="vTxt_titleProductAdd">PRODUCTO NUEVO</string>
+    <string name="vTxt_nameProductAdd">Nombre</string>
+    <string name="vTxt_descriptionProductAdd">Descripción</string>
+    <string name="vTxt_priceproductAdd">Precio</string>
+    <string name="btn_add">AGREGAR</string>
 
     //activity_catalogue
     <string name="vTxt_catalogue">CATALOGO</string>

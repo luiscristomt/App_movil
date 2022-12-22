@@ -12,20 +12,33 @@
         android:orientation="vertical"
         android:gravity="center_horizontal">
 
+        <TextView
+            android:id="@+id/vTxt_titleProductAdd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/vTxt_titleProductAdd"
+            android:textSize="40dp"/>
+
+        <ImageView
+            android:id="@+id/img_productAdd"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:srcCompat="@tools:sample/avatars" />
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:orientation="horizontal">
 
             <TextView
-                android:id="@+id/vTxt_number1"
+                android:id="@+id/vTxt_nameProductAdd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="@string/vTxt_number1" />
+                android:text="@string/vTxt_nameProductAdd" />
 
             <EditText
-                android:id="@+id/eTxt_number1"
+                android:id="@+id/eTxt_nameProductAdd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -39,14 +52,14 @@
             android:orientation="horizontal">
 
             <TextView
-                android:id="@+id/vTxt_number2"
+                android:id="@+id/vTxt_descriptionProductAdd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="@string/vTxt_number2" />
+                android:text="@string/vTxt_descriptionProductAdd" />
 
             <EditText
-                android:id="@+id/eTxt_number2"
+                android:id="@+id/eTxt_descriptionProductAdd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
@@ -60,19 +73,19 @@
             android:orientation="horizontal">
 
             <TextView
-                android:id="@+id/vTxt_result"
+                android:id="@+id/vTxt_priceProductAdd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="@string/vTxt_result" />
+                android:text="@string/vTxt_priceproductAdd" />
 
             <EditText
-                android:id="@+id/eTxt_result"
+                android:id="@+id/eTxt_priceProductAdd"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:ems="10"
-                android:inputType="textPersonName" />
+                android:inputType="number" />
 
         </LinearLayout>
 
@@ -80,6 +93,6 @@
             android:id="@+id/btn_add"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="@string/vTxt_add" />
+            android:text="@string/btn_add" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
