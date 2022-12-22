@@ -19,20 +19,20 @@
             android:orientation="horizontal">
 
             <TextView
-                android:id="@+id/vTxt_username"
+                android:id="@+id/vTxt_emailLogin"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/vTxt_username"
-                android:textColor="@color/vTxt_usermane" />
+                android:text="@string/vTxt_emailLogin"
+                android:textColor="@color/vTxt_emailLogin" />
 
             <EditText
-                android:id="@+id/eTxt_username"
+                android:id="@+id/eTxt_emailLogin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:ems="10"
-                android:inputType="textPersonName"
-                android:textColor="@color/eTxt_usermane" />
+                android:inputType="textEmailAddress"
+                android:textColor="@color/eTxt_emailLogin" />
 
         </LinearLayout>
 
@@ -42,29 +42,37 @@
             android:orientation="horizontal">
 
             <TextView
-                android:id="@+id/vtxt_password"
+                android:id="@+id/vtxt_passwordLogin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
-                android:text="@string/vTxt_password"
-                android:textColor="@color/vTxt_password" />
+                android:text="@string/vTxt_passwordLogin"
+                android:textColor="@color/vTxt_passwordLogin" />
 
             <EditText
-                android:id="@+id/eTxt_password"
+                android:id="@+id/eTxt_passwordLogin"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_weight="1"
                 android:ems="10"
                 android:inputType="textPassword"
-                android:textColor="@color/eTxT_password" />
+                android:text=""
+                android:textColor="@color/eTxT_passwordLogin"/>
+
         </LinearLayout>
 
         <Button
-            android:id="@+id/btn_login"
+            android:id="@+id/btn_loginLogin"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:backgroundTint="@color/btn_login"
-            android:text="@string/btn_login" />
+            android:backgroundTint="@color/btn_loginLogin"
+            android:text="@string/btn_loginLogin" />
+
+        <Button
+            android:id="@+id/btn_registerLogin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_registerLogin" />
 
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>

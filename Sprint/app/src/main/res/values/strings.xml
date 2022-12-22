@@ -1,19 +1,28 @@
 <resources>
     <string name="app_name">Proyecto</string>
 
-    //activiti_login
-    <string name="vTxt_username">Usuario</string>
-    <string name="vTxt_password">Contraseña</string>
-    <string name="btn_login">LOGIN</string>
-    <string name="btn_addition">SUMA</string>
+    //activity_login
+    <string name="vTxt_emailLogin">Correo</string>
+    <string name="vTxt_passwordLogin">Contraseña</string>
+    <string name="btn_loginLogin">LOGIN</string>
+    <string name="btn_registerLogin">REGISTRO</string>
 
-    //activiti_addition
-    <string name="vTxt_titleProductAdd">PRODUCTO NUEVO</string>
+    //activity_register
+    <string name="vTxt_emailRegister">Correo</string>
+    <string name="vTxt_passwordRegister">Contraseña</string>
+    <string name="vTxt_confirmationRegister">Confirmar contraseña</string>
+    <string name="btn_registerRegister">REGISTRO</string>
+
+    //activity_addition
+    <string name="vTxt_titleProductAdd">AGREGAR PRODUCTO</string>
     <string name="vTxt_nameProductAdd">Nombre</string>
     <string name="vTxt_descriptionProductAdd">Descripción</string>
     <string name="vTxt_priceproductAdd">Precio</string>
-    <string name="btn_add">AGREGAR</string>
+    <string name="btn_addProduct">AGREGAR</string>
 
     //activity_catalogue
     <string name="vTxt_catalogue">CATALOGO</string>
+
+    //activity_map
+    <string name="vTxt_titleMap">MAPA</string>
 </resources>

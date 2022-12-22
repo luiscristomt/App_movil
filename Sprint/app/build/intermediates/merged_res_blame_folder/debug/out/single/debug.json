@@ -1,186 +1,202 @@
 [
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable-v24_bala.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable-v24\\bala.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxhdpi_ic_camera_round.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xxhdpi/ic_camera_round.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\layout_format_product.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\layout\\format_product.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-hdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxxhdpi_ic_camera_foreground.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xxxhdpi\\ic_camera_foreground.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-mdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-hdpi_ic_camera_round.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-hdpi\\ic_camera_round.png"
+        "merged": "com.example.sprint.app-merged_res-36:/layout_activity_map.xml.flat",
+        "source": "com.example.sprint.app-main-38:/layout/activity_map.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable_ic_baseline_add_24.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable\\ic_baseline_add_24.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-hdpi_ic_camera_foreground.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-hdpi/ic_camera_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-mdpi_ic_camera_round.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-mdpi\\ic_camera_round.png"
+        "merged": "com.example.sprint.app-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "com.example.sprint.app-main-38:/layout/activity_login.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable-v24_dvr.png.flat",
+        "source": "com.example.sprint.app-main-38:/drawable-v24/dvr.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-anydpi-v26_ic_camera.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-anydpi-v26\\ic_camera.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/layout_activity_register.xml.flat",
+        "source": "com.example.sprint.app-main-38:/layout/activity_register.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxhdpi_ic_camera.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xxhdpi\\ic_camera.png"
+        "merged": "com.example.sprint.app-merged_res-36:/layout_activity_catalogue.xml.flat",
+        "source": "com.example.sprint.app-main-38:/layout/activity_catalogue.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-anydpi-v26_ic_camera_round.xml.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-anydpi-v26/ic_camera_round.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable-v24_bala.png.flat",
+        "source": "com.example.sprint.app-main-38:/drawable-v24/bala.png"
     },
     {
-        "merged": "com.example.sprint.app-merged_res-33:/layout_activity_addition.xml.flat",
-        "source": "com.example.sprint.app-main-35:/layout/activity_addition.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-mdpi_ic_camera_round.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-mdpi/ic_camera_round.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-mdpi_ic_camera.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-mdpi\\ic_camera.png"
+        "merged": "com.example.sprint.app-merged_res-36:/menu_menus.xml.flat",
+        "source": "com.example.sprint.app-main-38:/menu/menus.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable_ic_baseline_add_circle_outline_24.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable\\ic_baseline_add_circle_outline_24.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable_ic_baseline_add_circle_outline_24.xml.flat",
+        "source": "com.example.sprint.app-main-38:/drawable/ic_baseline_add_circle_outline_24.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxhdpi_ic_camera_round.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xxhdpi\\ic_camera_round.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xhdpi_ic_camera_round.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xhdpi/ic_camera_round.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\layout_activity_addition.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\layout\\activity_addition.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-mdpi_ic_camera.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-mdpi/ic_camera.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\layout_activity_catalogue.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\layout\\activity_catalogue.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable_ic_baseline_delete_24.xml.flat",
+        "source": "com.example.sprint.app-main-38:/drawable/ic_baseline_delete_24.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-hdpi_ic_camera.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-hdpi/ic_camera.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-anydpi-v26_ic_camera_round.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-anydpi-v26\\ic_camera_round.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\menu_main.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\menu\\main.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable-v24_ptz.png.flat",
+        "source": "com.example.sprint.app-main-38:/drawable-v24/ptz.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxxhdpi_ic_camera.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xxxhdpi\\ic_camera.png"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable_ic_baseline_add_24.xml.flat",
+        "source": "com.example.sprint.app-main-38:/drawable/ic_baseline_add_24.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-mdpi_ic_camera_foreground.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-mdpi/ic_camera_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable-v24_domo.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable-v24\\domo.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxhdpi_ic_camera_foreground.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xxhdpi\\ic_camera_foreground.png"
+        "merged": "com.example.sprint.app-merged_res-36:/layout_activity_add.xml.flat",
+        "source": "com.example.sprint.app-main-38:/layout/activity_add.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xhdpi_ic_camera_foreground.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xhdpi/ic_camera_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xhdpi_ic_camera_foreground.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xhdpi\\ic_camera_foreground.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xhdpi_ic_camera.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xhdpi/ic_camera.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable-v24_ptz.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable-v24\\ptz.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-mdpi_ic_camera_foreground.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-mdpi\\ic_camera_foreground.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxxhdpi_ic_camera_round.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xxxhdpi/ic_camera_round.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xhdpi_ic_camera.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xhdpi\\ic_camera.png"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable_ic_baseline_my_location_24.xml.flat",
+        "source": "com.example.sprint.app-main-38:/drawable/ic_baseline_my_location_24.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable-v24_login.jpg.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable-v24\\login.jpg"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-anydpi-v26_ic_camera.xml.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-anydpi-v26/ic_camera.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable-v24_dvr.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\drawable-v24\\dvr.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-hdpi_ic_camera_round.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-hdpi/ic_camera_round.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable-v24_login.jpg.flat",
+        "source": "com.example.sprint.app-main-38:/drawable-v24/login.jpg"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxxhdpi_ic_camera_foreground.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xxxhdpi/ic_camera_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\layout_activity_login.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\layout\\activity_login.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.sprint.app-main-38:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxxhdpi_ic_camera_round.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xxxhdpi\\ic_camera_round.png"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxhdpi_ic_camera_foreground.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xxhdpi/ic_camera_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/xml_backup_rules.xml.flat",
+        "source": "com.example.sprint.app-main-38:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-hdpi_ic_camera.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-hdpi\\ic_camera.png"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable_ic_baseline_mode_edit_24.xml.flat",
+        "source": "com.example.sprint.app-main-38:/drawable/ic_baseline_mode_edit_24.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-hdpi_ic_camera_foreground.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-hdpi\\ic_camera_foreground.png"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable-v24_domo.png.flat",
+        "source": "com.example.sprint.app-main-38:/drawable-v24/domo.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\xml\\backup_rules.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxxhdpi_ic_camera.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xxxhdpi/ic_camera.png"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-main-35:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.sprint.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.sprint.app-pngs-31:/drawable-anydpi-v24/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-merged_res-33:\\mipmap-xhdpi_ic_camera_round.png.flat",
-        "source": "C:\\Users\\Usuario\\.gradle\\daemon\\7.4\\com.example.sprint.app-debug-34:\\mipmap-xhdpi\\ic_camera_round.png"
+        "merged": "com.example.sprint.app-merged_res-36:/layout_format_product.xml.flat",
+        "source": "com.example.sprint.app-main-38:/layout/format_product.xml"
+    },
+    {
+        "merged": "com.example.sprint.app-merged_res-36:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.sprint.app-main-38:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-xxhdpi_ic_camera.png.flat",
+        "source": "com.example.sprint.app-debug-37:/mipmap-xxhdpi/ic_camera.png"
+    },
+    {
+        "merged": "com.example.sprint.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.sprint.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
     }
 ]

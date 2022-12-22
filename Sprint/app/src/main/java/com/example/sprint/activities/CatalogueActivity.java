@@ -55,20 +55,23 @@ public class CatalogueActivity extends AppCompatActivity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.main, menu);
+        getMenuInflater().inflate(R.menu.menus, menu);
         return true;
     }
 
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()){
-            case R.id.addItem:
-                Intent intent = new Intent(getApplicationContext(), AdditionActivity.class);
+            case R.id.menu_addProduct:
+                Intent intent = new Intent(getApplicationContext(), AddActivity.class);
                 startActivity(intent);
+                return true;
+            case R.id.menu_map:
+                Intent intent1 = new Intent(getApplicationContext(), MapActivity.class);
+                startActivity(intent1);
                 return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
-
     }
 }

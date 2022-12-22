@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="black">#FF000000</color>
-    <color name="btn_login">#2196F3</color>
-    <color name="eTxT_password">#FFFFFF</color>
-    <color name="eTxt_usermane">#FFFFFF</color>
+    <color name="btn_loginLogin">#2196F3</color>
+    <color name="eTxT_passwordLogin">#FFFFFF</color>
+    <color name="eTxt_emailLogin">#FFFFFF</color>
     <color name="ic_camera_background">#FFFFFF</color>
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="vTxt_password">#FFFFFF</color>
-    <color name="vTxt_usermane">#FFFFFF</color>
+    <color name="vTxt_emailLogin">#FFFFFF</color>
+    <color name="vTxt_passwordLogin">#FFFFFF</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Proyecto</string>
-    <string name="btn_add">AGREGAR</string>
-    <string name="btn_addition">SUMA</string>
-    <string name="btn_login">LOGIN</string>
+    <string name="btn_addProduct">AGREGAR</string>
+    <string name="btn_loginLogin">LOGIN</string>
+    <string name="btn_registerLogin">REGISTRO</string>
+    <string name="btn_registerRegister">REGISTRO</string>
     <string name="default_web_client_id" translatable="false">963821809085-tl6ukf1vnf2db5bdc9i4j3igkunp6bbi.apps.googleusercontent.com</string>
     <string name="firebase_database_url" translatable="false">https://sprint-b665d-default-rtdb.firebaseio.com</string>
     <string name="gcm_defaultSenderId" translatable="false">963821809085</string>
@@ -26,12 +27,16 @@
     <string name="google_storage_bucket" translatable="false">sprint-b665d.appspot.com</string>
     <string name="project_id" translatable="false">sprint-b665d</string>
     <string name="vTxt_catalogue">CATALOGO</string>
+    <string name="vTxt_confirmationRegister">Confirmar contraseña</string>
     <string name="vTxt_descriptionProductAdd">Descripción</string>
+    <string name="vTxt_emailLogin">Correo</string>
+    <string name="vTxt_emailRegister">Correo</string>
     <string name="vTxt_nameProductAdd">Nombre</string>
-    <string name="vTxt_password">Contraseña</string>
+    <string name="vTxt_passwordLogin">Contraseña</string>
+    <string name="vTxt_passwordRegister">Contraseña</string>
     <string name="vTxt_priceproductAdd">Precio</string>
-    <string name="vTxt_titleProductAdd">PRODUCTO NUEVO</string>
-    <string name="vTxt_username">Usuario</string>
+    <string name="vTxt_titleMap">MAPA</string>
+    <string name="vTxt_titleProductAdd">AGREGAR PRODUCTO</string>
     <style name="Theme.Sprint" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
         
         <item name="colorPrimary">@color/purple_500</item>

@@ -7,9 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="vTxt_usermane">#FFFFFF</color>
-    <color name="eTxt_usermane">#FFFFFF</color>
-    <color name="vTxt_password">#FFFFFF</color>
-    <color name="eTxT_password">#FFFFFF</color>
-    <color name="btn_login">#2196F3</color>
+    <color name="vTxt_emailLogin">#FFFFFF</color>
+    <color name="eTxt_emailLogin">#FFFFFF</color>
+    <color name="vTxt_passwordLogin">#FFFFFF</color>
+    <color name="eTxT_passwordLogin">#FFFFFF</color>
+    <color name="btn_loginLogin">#2196F3</color>
 </resources>
